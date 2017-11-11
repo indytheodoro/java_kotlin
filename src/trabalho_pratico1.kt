@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
     println(x+0.5 + 2*z/(3.5-x))
     println(x*y / z.toDouble())
     println((x/2.5 + y*3) + 1/2.toDouble() + z)
-    println(2*x + (1/2.toInt()*x))
+    println(2*x + (1/2*x))
     println(x-y + 3.7f.toInt())
 
     println("\nExpressões Lógicas")
